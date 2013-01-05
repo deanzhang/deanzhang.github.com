@@ -2,6 +2,7 @@
 layout: page
 title: Hello World!
 tagline: Supporting tagline
+tags : [index, deanzhang]
 ---
 {% include JB/setup %}
 
