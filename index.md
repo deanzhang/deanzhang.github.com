@@ -2,9 +2,12 @@
 layout: page
 title: 你好程小木!
 tagline: Supporting tagline
-tags : [index, deanzhang]
 ---
 {% include JB/setup %}
+
+## 简介
+
+您好，欢迎您来到章与程的Blog世界。这里是我们的小世界。新浪微博请分别@16点25分_东南角 和 @程小木_ 
 
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
