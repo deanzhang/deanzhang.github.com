@@ -9,7 +9,7 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : 章与程的 Blog
+title : 章与程的Blog
 tagline: Site Tagline
 author :
   name : 章建军 程晓庆
