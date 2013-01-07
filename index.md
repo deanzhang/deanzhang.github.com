@@ -7,7 +7,7 @@ tagline: Supporting tagline
 
 ## 简介
 
-您好，欢迎您来到章与程的Blog世界。这里是我们的小世界。新浪微博请分别@{{ site.author.sina_weibo1 }} 和 @{{ site.author.sina_weibo2 }}
+您好，欢迎您来到章与程的Blog世界。这里是我们的小世界。新浪微博请分别[@{{ site.author.sina_weibo1 }}](http://www.weibo.com/sandozhang) 和 @{{ site.author.sina_weibo2 }}
 
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
