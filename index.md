@@ -1,32 +1,18 @@
 ---
 layout: page
 title: 你好程小木_!
-tagline: Supporting tagline
+tagline: 哈哈……
 ---
 {% include JB/setup %}
 
 ## 简介
 
-您好，欢迎您来到章与程的Blog世界。这里是我们的小世界。新浪微博请分别[@{{ site.author.sina_weibo1 }}](http://www.weibo.com/sandozhang) 和 [@{{ site.author.sina_weibo2 }}](http://www.weibo.com/u/1742170410)
+您好，欢迎您来到章与程的Blog世界。这里是我们的小世界。新浪微博请分别[@{{ site.author.sina_weibo1 }}]({{ site.author.sina_weibo_url1 }}) 和 [@{{ site.author.sina_weibo2 }}]({{ site.author.sina_weibo_url1 }})
 
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
 Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
 
-## Update Author Attributes
-
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
-
-The theme should reference these variables whenever needed.
-    
 ## Sample Posts
 
 This blog contains sample posts which help stage pages and blog data.
