@@ -7,7 +7,7 @@ tagline: Supporting tagline
 
 ## 简介
 
-您好，欢迎您来到章与程的Blog世界。这里是我们的小世界。新浪微博请分别@16点25分_东南角 和 @程小木_ 
+您好，欢迎您来到章与程的Blog世界。这里是我们的小世界。新浪微博请分别@{{ site.author.sina_weibo }} or @16点25分_东南角 和 @程小木_ 
 
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
