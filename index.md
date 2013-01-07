@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 你好{{ site.author.sina_weibo2 }}!
+title: 你好程小木_!
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
