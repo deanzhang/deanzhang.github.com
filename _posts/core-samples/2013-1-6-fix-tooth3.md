@@ -1,6 +1,7 @@
 ---
 layout: post
 category : tooth
+title: 第三次补牙
 tags : [fix, tooth]
 ---
 {% include JB/setup %}
