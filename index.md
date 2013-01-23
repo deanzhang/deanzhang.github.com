@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 你好程小木_!
-tagline: 哈哈……
+tagline: 执子之手，与子偕老。
 ---
 {% include JB/setup %}
 
