@@ -15,14 +15,17 @@ author :
   name : Seds Piggy
   email : seds19841231@gmail.com
   github : deanzhang
-  sina_weibo1 : 16点25分_东南角
-  sina_weibo1_uid: 2439834023
-  sina_weibo1_verifier: 70a007d1
-  sina_weibo1_url : http://www.weibo.com/sandozhang
-  sina_weibo2 : 程小木_
-  sina_weibo2_uid: 1742170410
-  sina_weibo2_verifier: 9b75a6f7
-  sina_weibo2_url : http://www.weibo.com/u/1742170410
+sina :
+  weibo1:
+    uid: 2439834023
+    name: 16点25分_东南角
+    verifier: 70a007d1
+    url: http://www.weibo.com/sandozhang
+  weibo2:
+    uid: 1742170410
+    name: 程小木_
+    verifier: 9b75a6f7
+    url: http://www.weibo.com/u/1742170410
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 

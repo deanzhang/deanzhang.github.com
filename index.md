@@ -7,7 +7,7 @@ tagline: 执子之手，与子偕老。
 
 ## 简介
 
-您好，欢迎您来到章程的Blog世界。这里是我们的小世界。新浪微博请分别[@{{ site.author.sina_weibo1 }}]({{ site.author.sina_weibo1_url }}) 和 [@{{ site.author.sina_weibo2 }}]({{ site.author.sina_weibo2_url }})
+您好，欢迎您来到章程的Blog世界。这里是我们的小世界。新浪微博请分别[@{{ site.sina.weibo1.name }}]({{ site.sina.weibo1.url }}) 和 [@{{ site.sina.weibo2.name }}]({{ site.sina.weibo2.url }})
 
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
